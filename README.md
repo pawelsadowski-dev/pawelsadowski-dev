@@ -22,7 +22,7 @@ Obecnie pracuję nad kilkoma projektami, które wkrótce dodam do tego repozytor
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:spawel621@gmail.com)
 
 ## Statystyki GitHub
-(https://github-readme-stats.vercel.app/api?username=pawelsadowski-dev&show_icons=true&theme=radical)
+[Statystyki GitHub](https://github-readme-stats.vercel.app/api?username=pawelsadowski-dev&show_icons=true&theme=radical)
 ![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=pawelsadowski-dev&layout=compact&theme=radical)
 
 
